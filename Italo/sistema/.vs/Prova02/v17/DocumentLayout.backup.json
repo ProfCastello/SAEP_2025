@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\migrations\\20251105191935_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\migrations\\20251105191935_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|c:\\users\\sesi3\\desktop\\prova-02\\prova02\\prova02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1E78551C-2C88-4B10-8E60-B55213BBFB7C}|Prova02\\Prova02.csproj|solutionrelative:prova02\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Movimentacoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Prova02\\Views\\Movimentacoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Movimentacoes\\Create.cshtml*",
+              "RelativeToolTip": "Prova02\\Views\\Movimentacoes\\Create.cshtml*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:28:34.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Prova02\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Prova02\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:54:30.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\appsettings.json",
+              "RelativeDocumentMoniker": "Prova02\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\appsettings.json",
+              "RelativeToolTip": "Prova02\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T17:52:15.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "Prova02\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "Prova02\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:40:04.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "Prova02\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Models\\Produto.cs",
+              "RelativeToolTip": "Prova02\\Models\\Produto.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:19:52.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "Prova02\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "Prova02\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAWwBgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:06:09.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MovimentacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Controllers\\MovimentacoesController.cs",
+              "RelativeDocumentMoniker": "Prova02\\Controllers\\MovimentacoesController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Controllers\\MovimentacoesController.cs",
+              "RelativeToolTip": "Prova02\\Controllers\\MovimentacoesController.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAxwFoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:05:30.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Prova02\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Prova02\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:42:13.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Prova02\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "Prova02\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:22:59.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Prova02\\Views\\Movimentacoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeToolTip": "Prova02\\Views\\Movimentacoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:04:18.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20251105191935_Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Migrations\\20251105191935_Inicio.cs",
+              "RelativeDocumentMoniker": "Prova02\\Migrations\\20251105191935_Inicio.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Migrations\\20251105191935_Inicio.cs",
+              "RelativeToolTip": "Prova02\\Migrations\\20251105191935_Inicio.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:19:35.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Program.cs",
+              "RelativeDocumentMoniker": "Prova02\\Program.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Prova-02\\Prova02\\Prova02\\Program.cs",
+              "RelativeToolTip": "Prova02\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:17:47.049Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

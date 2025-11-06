@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\resetpassword.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\data\\migrations\\20251105173340_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\data\\migrations\\20251105173340_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|c:\\users\\sesi3\\onedrive - sesisenaisp - escolas\\documentos\\sistema\\materiaisconstrucao\\materiaisconstrucao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C9244E32-1EED-4C0A-B27D-0720AED945EB}|MateriaisConstrucao\\MateriaisConstrucao.csproj|solutionrelative:materiaisconstrucao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:45:17.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:44:34.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Models\\Produto.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Models\\Produto.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAUwCUAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:12:57.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:30:51.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:39:19.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:54:03.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:49:03.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:26:18.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBkAAACPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:29:24.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:23:12.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:39:30.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ResetPassword.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\ResetPassword.cshtml.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAAADUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:35:35.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIIAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:27:33.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwCQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:56:06.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:40:19.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "MateriaisConstrucao\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAADkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T17:57:49.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251105181503_Complementos.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Data\\Migrations\\20251105181503_Complementos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:15:04.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MovimentacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Controllers\\MovimentacoesController.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Controllers\\MovimentacoesController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Controllers\\MovimentacoesController.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Controllers\\MovimentacoesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:41:36.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "MateriaisConstrucao\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-11-05T17:43:28.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20251105173340_Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\Migrations\\20251105173340_Inicio.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Data\\Migrations\\20251105173340_Inicio.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\Migrations\\20251105173340_Inicio.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Data\\Migrations\\20251105173340_Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:33:40.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Program.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Program.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Program.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:31:25.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\appsettings.json",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\appsettings.json",
+              "RelativeToolTip": "MateriaisConstrucao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T17:30:07.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MateriaisConstrucao\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\OneDrive - SESISENAISP - Escolas\\Documentos\\Sistema\\MateriaisConstrucao\\MateriaisConstrucao\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MateriaisConstrucao\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:29:28.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
