@@ -1,0 +1,411 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\areas\\identity\\pages\\account\\logout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\produtos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\movimentacoes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\movimentacoes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\movimentacoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\movimentacoes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\controllers\\movimentacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\models\\movimentacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\models\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\materiaisdeconstrucao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\materiaisdeconstrucao.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\data\\migrations\\20251105174946_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\data\\migrations\\20251105174946_inicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\data\\migrations\\20251105182123_alteracoesfinais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\data\\migrations\\20251105182123_alteracoesfinais.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|c:\\users\\sesi3\\desktop\\sistema\\materiaisdeconstrucao\\materiaisdeconstrucao\\data\\migrations\\20251105181553_alteracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5066DB1E-78BF-4DD1-BBC9-DA2D2601717C}|MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj|solutionrelative:materiaisdeconstrucao\\data\\migrations\\20251105181553_alteracoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 21,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA0wFIAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T19:37:17.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T19:14:02.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Delete.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:55:32.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:53:16.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:49:20.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFAAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:28:02.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20251105182123_AlteracoesFinais.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105182123_AlteracoesFinais.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Data\\Migrations\\20251105182123_AlteracoesFinais.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105182123_AlteracoesFinais.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Data\\Migrations\\20251105182123_AlteracoesFinais.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:21:23.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20251105181553_Alteracoes.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105181553_Alteracoes.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Data\\Migrations\\20251105181553_Alteracoes.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105181553_Alteracoes.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Data\\Migrations\\20251105181553_Alteracoes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:15:53.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Logout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Logout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:08:52.618Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:08:39.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:08:21.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Create.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswCgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:06:35.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Movimentacoes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:05:37.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:02:07.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Index.cshtml",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Views\\Produtos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Views\\Produtos\\Index.cshtml",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Views\\Produtos\\Index.cshtml",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-05T18:01:30.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MovimentacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Controllers\\MovimentacoesController.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Controllers\\MovimentacoesController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Controllers\\MovimentacoesController.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Controllers\\MovimentacoesController.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAswFAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:59:04.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:58:18.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "MateriaisDeConstrucao.csproj",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj",
+              "RelativeToolTip": "MateriaisDeConstrucao\\MateriaisDeConstrucao.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T17:54:56.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20251105174946_Inicio.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105174946_Inicio.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Data\\Migrations\\20251105174946_Inicio.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\Migrations\\20251105174946_Inicio.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Data\\Migrations\\20251105174946_Inicio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:49:46.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Program.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Program.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Program.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAwAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:47:41.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\appsettings.json",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\appsettings.json",
+              "RelativeToolTip": "MateriaisDeConstrucao\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-05T17:46:02.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:45:40.146Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Movimentacao.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Models\\Movimentacao.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Models\\Movimentacao.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Models\\Movimentacao.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Models\\Movimentacao.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:28:31.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Produto.cs",
+              "DocumentMoniker": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Models\\Produto.cs",
+              "RelativeDocumentMoniker": "MateriaisDeConstrucao\\Models\\Produto.cs",
+              "ToolTip": "C:\\Users\\Sesi3\\Desktop\\Sistema\\MateriaisDeConstrucao\\MateriaisDeConstrucao\\Models\\Produto.cs",
+              "RelativeToolTip": "MateriaisDeConstrucao\\Models\\Produto.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T17:28:20.789Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
